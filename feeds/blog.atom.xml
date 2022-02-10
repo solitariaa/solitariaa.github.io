@@ -1,2 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>lab5 - Blog</title><link href="https://solitariaa.github.io/" rel="alternate"></link><link href="https://solitariaa.github.io/feeds/blog.atom.xml" rel="self"></link><id>https://solitariaa.github.io/</id><updated>2021-10-06T10:00:00-06:00</updated><entry><title>My First Article</title><link href="https://solitariaa.github.io/my-first-article.html" rel="alternate"></link><published>2021-10-06T10:00:00-06:00</published><updated>2021-10-06T10:00:00-06:00</updated><author><name>ziyin</name></author><id>tag:solitariaa.github.io,2021-10-06:/my-first-article.html</id><content type="html">&lt;p&gt;Go to school.&lt;/p&gt;</content><category term="Blog"></category></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>lab5 - Blog</title>
+<link href="https://solitariaa.github.io/" rel="alternate"></link>
+<link href="https://solitariaa.github.io/feeds/blog.atom.xml" rel="self"></link>
+<id>https://solitariaa.github.io/</id>
+<updated>2022-02-09T10:00:00-06:00</updated>
+<entry>
+<title>My First Article</title>
+<link href="https://solitariaa.github.io/my-first-article.html" rel="alternate"></link>
+<published>2022-02-09T10:00:00-06:00</published>
+<updated>2022-02-09T10:00:00-06:00</updated>
+<author><name>ziyin</name></author>
+<id>tag:solitariaa.github.io,2021-02-09:/my-first-article.html</id>
+<content type="html">&lt;p&gt;Go to school.&lt;/p&gt;</content>
+<category term="Blog"></category>
+</entry>
+<entry>
+<title>My Second Article</title>
+<link href="https://solitariaa.github.io/my-second-article.html" rel="alternate"></link>
+<published>2022-02-09T10:00:00-06:00</published>
+<updated>2022-02-09T10:00:00-06:00</updated>
+<author><name>ziyin</name></author>
+<id>tag:solitariaa.github.io,2021-02-09:/my-second-article.html</id>
+<content type="html">&lt;p&gt;Go to sleep.&lt;/p&gt;</content>
+<category term="Blog"></category>
+</entry>
+<entry>
+<title>My Third Article</title>
+<link href="https://solitariaa.github.io/my-third-article.html" rel="alternate"></link>
+<published>2022-02-09T10:00:00-06:00</published>
+<updated>2022-02-09T10:00:00-06:00</updated>
+<author><name>ziyin</name></author>
+<id>tag:solitariaa.github.io,2021-02-09:/my-third-article.html</id>
+<content type="html">&lt;p&gt;This is a good day.&lt;/p&gt;</content>
+<category term="Blog"></category>
+</entry>
+</feed>
